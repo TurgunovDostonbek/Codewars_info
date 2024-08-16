@@ -100,4 +100,31 @@ sumDouble(2, 2); // => 8
 // Berilgan sonlar forda aylangan vaqtda aylanish tugaganda aylanish tugadi desin.
 // Berilgan sonlar forda aylanishni boshlaganda aylanish boshlandi desin? tugaganda esa tugadi desin?
 // Berilgan sonlar aylanganda ikki honali son bo'lsa ikki xonali son bir xonali son bo'lsa bir xonali son desin uch xonali son bo'lsa uch xonali son desin..
+// Berilgan masalalarni While and do While bilan ham qiling..?
 //
+/// ==========================================================================================================
+//  Functionga doir masala.
+
+// Function Declaration ga 5ta misol yozing..
+// Function Expresion ga 5ta misol yozing..
+// Arrow Functionga ga 5ta misol yozing..
+//
+/// ==========================================================================================================
+// String ga doir masalalar..
+// let str = "Smartbrain"
+// let str = "webbrain"
+// let str = "hello"
+// let str = "salom"
+
+// Berilgan str larni bosh harifini katta qolganini kichik qiling.?
+// Berilgan str larni boshidagi ikkita harifini katta qolganini kichik qiling.?
+// Berilgan str larni boshi va oxirini Katta qolgani kichik bolsin.?
+// Berilgan str larni uzunligini chiqaring.?
+// Berilgan str larni oxirini katta qolganini kichik qiling.?
+// Berilgan str larni bosh harifini oldinga oxirgi harifini esa oxiriga otkazing.?
+// Berilgan str larni tekshiring agar str uzunligi 5dan katta bo'lsa true aks holda esa false chiqsin.?
+// Berilgan str larni for loop, While da and do Whileda aylanib chiqing.?
+// Berilgan str larni array korinishiga o'tkazing.?
+// Berilgan str larni bir biriga qoshib bering.?
+//
+/// ==========================================================================================================
