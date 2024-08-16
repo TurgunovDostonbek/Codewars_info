@@ -63,16 +63,16 @@ startEndChar("Salom"); // => ["S","m"]
 // /// Masala- 6
 // // Sharti...
 // //   Ikki int qiymat berilgan bo'lsa, ularning yig'indisini qaytaring. Ikki qiymat bir xil bo'lmasa, ularning yig'indisini ikki baravar qaytaring.
-function sumDouble(a, b) {
-  if (a !== b) {
-    console.log((a + b) * 2);
-  }
-  {
-    console.log(a + b);
-  }
-}
-sumDouble(1, 2); // => 3
-sumDouble(2, 2); // => 8
+// function sumDouble(a, b) {
+//   if (a !== b) {
+//     console.log((a + b) * 2);
+//   }
+//   {
+//     console.log(a + b);
+//   }
+// }
+// sumDouble(1, 2); // => 3
+// sumDouble(2, 2); // => 8
 // /// Masala- 7
 // // Sharti...
 // // Int n berilgan bo'lsa, n va 21 o'rtasidagi mutlaq farqni qaytaring, bundan mustasno, agar n 21 dan yuqori bo'lsa, mutlaq farqni ikki baravar qaytaring.
@@ -109,8 +109,14 @@ sumDouble(2, 2); // => 8
 // Function Expresion ga 5ta misol yozing..
 // Arrow Functionga ga 5ta misol yozing..
 //
+// let str = "SmartBrain"
+// Function Declaration ga 5ta misol yozing lekin parametriga str berilsin va consolga str chiqsin..
+// Function Expresion ga 5ta misol yozing lekin parametriga str berilsin va consolga str chiqsin..
+// Arrow Functionga ga 5ta misol yozing lekin parametriga str berilsin va consolga str chiqsin..
+//
 /// ==========================================================================================================
 // String ga doir masalalar..
+
 // let str = "Smartbrain"
 // let str = "webbrain"
 // let str = "hello"
@@ -121,10 +127,68 @@ sumDouble(2, 2); // => 8
 // Berilgan str larni boshi va oxirini Katta qolgani kichik bolsin.?
 // Berilgan str larni uzunligini chiqaring.?
 // Berilgan str larni oxirini katta qolganini kichik qiling.?
-// Berilgan str larni bosh harifini oldinga oxirgi harifini esa oxiriga otkazing.?
+// Berilgan str larni bosh harifini oldinga oxirgi harifini esa oxiriga o'tkazing.?
 // Berilgan str larni tekshiring agar str uzunligi 5dan katta bo'lsa true aks holda esa false chiqsin.?
 // Berilgan str larni for loop, While da and do Whileda aylanib chiqing.?
 // Berilgan str larni array korinishiga o'tkazing.?
 // Berilgan str larni bir biriga qoshib bering.?
-//
+
+// let str2 = "9"
+// let str2 = "10"
+// let str2 = "15"
+// let str2 = "20"
+// let str2 = "25"
+
+// Berilgan str2 larni functionni parametrga berib qo'shib, kopaytirib, ayirib, bo'lib bering.?
+// Berilgan str2 larni functionni parametrga berib forda aylanib consolga chiqaring..?
+// Berilgan str2 larni functionni parametrga berib Whileda aylanib chiqing?
+// Berilgan str2 larni functionni parametrga berib do Whileda aylanib chiqing?
+// Berilgan str2 larni functionni parametrga berib if else da tekshiring agar juft son bo'lsa true aks holda false chiqsin.
+// Berilgan str2 larni functionni parametrga berib Switchda tekshiring case ga tog'ri kelsa true aks holda false chiqsin?
 /// ==========================================================================================================
+// Number ga doir masala..
+//
+// let nums = 9
+// let nums = 10
+// let nums = 15
+// let nums = 20
+// let nums = 25
+//
+// Berilgan nums larni functionni parametrga berib qo'shib, kopaytirib, ayirib, bo'lib bering.?
+// Berilgan nums larni functionni parametrga berib forda aylanib consolga chiqaring..?
+// Berilgan nums larni functionni parametrga berib Whileda aylanib chiqing?
+// Berilgan nums larni functionni parametrga berib do Whileda aylanib chiqing?
+// Berilgan nums larni functionni parametrga berib if else da tekshiring agar juft son bo'lsa true aks holda false chiqsin.
+// Berilgan nums larni functionni parametrga berib Switchda tekshiring case ga tog'ri kelsa true aks holda false chiqsin?
+// Berilgan nums larni functionni parametrga berib agar son juft bo'lsa 2ga ko'paytirish amalini bajarsin?
+// Berilgan nums larni functionni parametrga berib agar son toq bo'lsa 3ga ayirish amalini bajarsin?
+// Berilgan nums larni functionni parametrga berib ularni typeof ni consolga string qilib chiqarin?
+// Berilgan nums larni functionni parametrga berib ularni hammasini stringa aylantiring?
+
+/// ==========================================================================================================
+// Objectga doir masalar..
+//
+// let obj1 = {
+//  name : "Smartbrain",
+//  year: 2024,
+//  student: 100,
+//  location: "Namangan"
+// }
+
+// let obj2 = {
+//  name : "Webbrain",
+//  year: 2020,
+//  student: 200,
+//  location: "Toshkent"
+// }
+
+// Berilgan obj larni ichidagi malumotlarni olib bering.?
+// Berilgan obj larni ichiga exses qilish haqida gapiring va tushuntiring va video tayorlang.?
+// Berilgan obj larni bir biri bilan solishtiring agar teng bo'lsa true aks holda false chiqsin.?
+// Berilgan obj larni studentlarini sonini bir biriga qo'shib bering.?
+// Berilgan obj larni yearni bir biridan ayirib bering.?
+// Berilgan obj larni yangi nom bilan yozib studentlarini qo'shib yangi obj yasab berin.?
+// Berilgan obj larni
+// Berilgan obj larni
+// Berilgan obj larni
+// Berilgan obj larni
