@@ -105,14 +105,14 @@ startEndChar("Salom"); // => ["S","m"]
 /// ==========================================================================================================
 //  Functionga doir masala.
 
-// Function Declaration ga 5ta misol yozing..
-// Function Expresion ga 5ta misol yozing..
-// Arrow Functionga ga 5ta misol yozing..
+// Function Declaration ga 10ta misol yozing..
+// Function Expresion ga 10ta misol yozing..
+// Arrow Functionga ga 10ta misol yozing..
 //
-// let str = "SmartBrain"
-// Function Declaration ga 5ta misol yozing lekin parametriga str berilsin va consolga str chiqsin..
-// Function Expresion ga 5ta misol yozing lekin parametriga str berilsin va consolga str chiqsin..
-// Arrow Functionga ga 5ta misol yozing lekin parametriga str berilsin va consolga str chiqsin..
+// let str = "SmartBrain";
+// Function Declaration ga 10ta misol yozing lekin parametriga str berilsin va consolga str chiqsin..
+// Function Expresion ga 10ta misol yozing lekin parametriga str berilsin va consolga str chiqsin..
+// Arrow Functionga ga 10ta misol yozing lekin parametriga str berilsin va consolga str chiqsin..
 //
 /// ==========================================================================================================
 // String ga doir masalalar..
