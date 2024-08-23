@@ -110,6 +110,7 @@ startEndChar("Salom"); // => ["S","m"]
 // Arrow Functionga ga 10ta misol yozing..
 //
 // let str = "SmartBrain";
+
 // Function Declaration ga 10ta misol yozing lekin parametriga str berilsin va consolga str chiqsin..
 // Function Expresion ga 10ta misol yozing lekin parametriga str berilsin va consolga str chiqsin..
 // Arrow Functionga ga 10ta misol yozing lekin parametriga str berilsin va consolga str chiqsin..
@@ -139,12 +140,12 @@ startEndChar("Salom"); // => ["S","m"]
 // let str2 = "20"
 // let str2 = "25"
 
-// Berilgan str2 larni functionni parametrga berib qo'shib, kopaytirib, ayirib, bo'lib bering.?
-// Berilgan str2 larni functionni parametrga berib forda aylanib consolga chiqaring..?
-// Berilgan str2 larni functionni parametrga berib Whileda aylanib chiqing?
-// Berilgan str2 larni functionni parametrga berib do Whileda aylanib chiqing?
-// Berilgan str2 larni functionni parametrga berib if else da tekshiring agar juft son bo'lsa true aks holda false chiqsin.
-// Berilgan str2 larni functionni parametrga berib Switchda tekshiring case ga tog'ri kelsa true aks holda false chiqsin?
+// Berilgan str2 larni Numberga o'tkazing functionni parametrga berib qo'shib, kopaytirib, ayirib, bo'lib bering.?
+// Berilgan str2 larni Numberga o'tkazing functionni parametrga berib forda aylanib consolga chiqaring..?
+// Berilgan str2 larni Numberga o'tkazing functionni parametrga berib Whileda aylanib chiqing?
+// Berilgan str2 larni Numberga o'tkazing functionni parametrga berib do Whileda aylanib chiqing?
+// Berilgan str2 larni Numberga o'tkazing functionni parametrga berib if else da tekshiring agar juft son bo'lsa true aks holda false chiqsin.
+// Berilgan str2 larni Numberga o'tkazing functionni parametrga berib Switchda tekshiring case ga tog'ri kelsa true aks holda false chiqsin?
 /// ==========================================================================================================
 // Number ga doir masala..
 //
