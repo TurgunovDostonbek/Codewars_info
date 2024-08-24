@@ -169,7 +169,6 @@ startEndChar("Salom"); // => ["S","m"]
 // Berilgan nums larni functionni parametrga berib ularni o'ziga qo'shing?
 // Berilgan nums larni functionni parametrga berib ularni ikki barobar qiymatiga qo'shing?
 // Berilgan nums larni functionni parametrga berib ularni ikki barobar qiymatidan ayiring?
-// Berilgan nums larni functionni parametrga berib ularni ikki barobar qiymatidan ayiring?
 
 /// ==========================================================================================================
 // Objectga doir masalar..
