@@ -165,6 +165,11 @@ startEndChar("Salom"); // => ["S","m"]
 // Berilgan nums larni functionni parametrga berib agar son toq bo'lsa 3ga ayirish amalini bajarsin?
 // Berilgan nums larni functionni parametrga berib ularni typeof ni consolga string qilib chiqarin?
 // Berilgan nums larni functionni parametrga berib ularni hammasini stringa aylantiring?
+// Berilgan nums larni functionni parametrga berib ularni hammasini integer ko'rinishda chiqaring?
+// Berilgan nums larni functionni parametrga berib ularni o'ziga qo'shing?
+// Berilgan nums larni functionni parametrga berib ularni ikki barobar qiymatiga qo'shing?
+// Berilgan nums larni functionni parametrga berib ularni ikki barobar qiymatidan ayiring?
+//
 
 /// ==========================================================================================================
 // Objectga doir masalar..
