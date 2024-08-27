@@ -35,31 +35,31 @@
 /// Masala- 3
 // Sharti...
 //    Satr berilgan bo'lsa, oxirgi 3 ta belgi katta harf bilan yozilgan yangi qatorni qaytaring. Agar satrda 3 tadan kam belgi bo'lsa, unda nima bo'lsa katta harf bilan yozing. Esda tutingki, str.toUpperCase() satrning katta harfli versiyasini qaytaradi.
-function endUp(str) {
-  if (str.length > 3) {
-    let sum = str.slice(-3).toUpperCase();
-    console.log(sum);
-  } else {
-    console.log(str.toUpperCase());
-  }
-}
-endUp("Hello"); /// => HeLLO
-endUp("He"); /// => HeLLO
-/// Masala- 4
-// Sharti...
-///    Bo'sh bo'lmagan satr va int n berilgan bo'lsa, n indeksidagi belgi o'chirilgan yangi qatorni qaytaring.
-function missingChar(str, n) {
-  let sum = str.slice(0, n) + str.slice(n + 1);
-  console.log(sum);
-}
-missingChar("kitten", 3); // => ktten
-/// Masala- 5
-// Sharti...
-//   Str berilgan bo'lsa boshi va oxiridagi belgilarini olib bitta arrayga solib bering, agar str length bir yoki noll bo'lsa str o'zini qaytaring...
-function startEndChar(str) {
-  const sum = [];
-}
-startEndChar("Salom"); // => ["S","m"]
+// function endUp(str) {
+//   if (str.length > 3) {
+//     let sum = str.slice(-3).toUpperCase();
+//     console.log(sum);
+//   } else {
+//     console.log(str.toUpperCase());
+//   }
+// }
+// endUp("Hello"); /// => HeLLO
+// endUp("He"); /// => HeLLO
+// /// Masala- 4
+// // Sharti...
+// ///    Bo'sh bo'lmagan satr va int n berilgan bo'lsa, n indeksidagi belgi o'chirilgan yangi qatorni qaytaring.
+// function missingChar(str, n) {
+//   let sum = str.slice(0, n) + str.slice(n + 1);
+//   console.log(sum);
+// }
+// missingChar("kitten", 3); // => ktten
+// /// Masala- 5
+// // Sharti...
+// //   Str berilgan bo'lsa boshi va oxiridagi belgilarini olib bitta arrayga solib bering, agar str length bir yoki noll bo'lsa str o'zini qaytaring...
+// function startEndChar(str) {
+//   const sum = [];
+// }
+// startEndChar("Salom"); // => ["S","m"]
 // /// Masala- 6
 // // Sharti...
 // //   Ikki int qiymat berilgan bo'lsa, ularning yig'indisini qaytaring. Ikki qiymat bir xil bo'lmasa, ularning yig'indisini ikki baravar qaytaring.
@@ -118,18 +118,28 @@ startEndChar("Salom"); // => ["S","m"]
 /// ==========================================================================================================
 // String ga doir masalalar..
 
-// let str = "Smartbrain"
+// let str = "smartbrain";
 // let str = "webbrain"
 // let str = "hello"
 // let str = "salom"
 
 // Berilgan str larni bosh harifini katta qolganini kichik qiling.?
-// Berilgan str larni boshidagi ikkita harifini katta qolganini kichik qiling.?
-// Berilgan str larni boshi va oxirini Katta qolgani kichik bolsin.?
+// console.log(str.charAt().toUpperCase() + str.slice(1));
+// // Berilgan str larni boshidagi ikkita harifini katta qolganini kichik qiling.?
+// // Berilgan str larni boshi va oxirini Katta qolgani kichik bolsin.?
+// console.log(
+//   str.charAt().toUpperCase() + str.slice(1, -1) + str.slice(-1).toUpperCase()
+// );
+
 // Berilgan str larni uzunligini chiqaring.?
+
 // Berilgan str larni oxirini katta qolganini kichik qiling.?
+// console.log(str.slice(0, -1) + str.slice(-1).toUpperCase());
+
 // Berilgan str larni bosh harifini oldinga oxirgi harifini esa oxiriga o'tkazing.?
+// console.log(str.slice(-1) + str.slice(1, -1) + str.slice(0, 1));
 // Berilgan str larni tekshiring agar str uzunligi 5dan katta bo'lsa true aks holda esa false chiqsin.?
+
 // Berilgan str larni for loop, While da and do Whileda aylanib chiqing.?
 // Berilgan str larni array korinishiga o'tkazing.?
 // Berilgan str larni bir biriga qoshib bering.?
@@ -147,13 +157,11 @@ startEndChar("Salom"); // => ["S","m"]
 // Berilgan str2 larni Numberga o'tkazing functionni parametrga berib if else da tekshiring agar juft son bo'lsa true aks holda false chiqsin.
 // Berilgan str2 larni Numberga o'tkazing functionni parametrga berib Switchda tekshiring case ga tog'ri kelsa true aks holda false chiqsin?
 /// ==========================================================================================================
-// Number ga doir masala..
-//
-// let nums = 9
+// Number ga doir masala...
+
+// let nums = 9;
 // let nums = 10
-// let nums = 15
-// let nums = 20
-// let nums = 25
+
 //
 // Berilgan nums larni functionni parametrga berib qo'shib, kopaytirib, ayirib, bo'lib bering.?
 // Berilgan nums larni functionni parametrga berib forda aylanib consolga chiqaring..?
@@ -197,3 +205,13 @@ startEndChar("Salom"); // => ["S","m"]
 // Berilgan obj larni
 // Berilgan obj larni
 // Berilgan obj larni
+
+// let obj1 = {
+//   student: 200,
+// };
+// let obj2 = {
+//   student: 300,
+// };
+// let obj = {};
+// obj.student = obj1.student + obj2.student;
+// console.log(obj);
