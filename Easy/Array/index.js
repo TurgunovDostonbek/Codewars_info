@@ -33,7 +33,6 @@ const country = ["Uzbekistan", "England", "USA", "Brazil"];
 // Berilgan array larni functionni parametrga berib consolga chiqaring?
 // Berilgan array larni functionni parametrga berib funksiyani buttonga biriktirib button bosilsa consolga chiqsin?
 //
-//
 // ==========================================================================================================
 // Arrayga doir masalar.. << Basic... Advanced >>
 
