@@ -32,3 +32,22 @@ const country = ["Uzbekistan", "England", "USA", "Brazil"];
 // Berilgan array larni xar bir functionni parametrga berib consolga chiqaring?
 // Berilgan array larni functionni parametrga berib consolga chiqaring?
 // Berilgan array larni functionni parametrga berib funksiyani buttonga biriktirib button bosilsa consolga chiqsin?
+//
+//
+// ==========================================================================================================
+// Arrayga doir masalar.. << Basic... Advanced >>
+
+let nums2 = [1, 8, -4, 7, 12];
+// Berilgan arrayni ummumiy yig'indisini toping?
+// Berilgan arrayni faqat musbat sonlarini qo'shib bering?
+// Berilgan arrayni musbatlarini qo'shib manfiylarini ayiring?
+// Berilgan arrayni 2ga ko'paytirib qaytaring?
+// Berilgan arrayni 4ga ko'paytirib hammasini qo'shib qaytaring?
+// Berilgan arrayni tartiblang?
+// Berilgan arrayni filter qilib 10 dan kattalari qolsin?
+// Berilgan arrayni filter qilib 10 dan kichiklari qolsin?
+//
+let bool = [true, true, true, false, true, true, true, true];
+// Berilgan arrayni function parametriga berib ichidagi true lar sonini toping?
+// Berilgan arrayni function parametriga berib ichidagi false lar sonini toping?
+//
