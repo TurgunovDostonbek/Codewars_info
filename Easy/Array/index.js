@@ -50,3 +50,5 @@ let bool = [true, true, true, false, true, true, true, true];
 // Berilgan arrayni function parametriga berib ichidagi true lar sonini toping?
 // Berilgan arrayni function parametriga berib ichidagi false lar sonini toping?
 //
+//
+//
