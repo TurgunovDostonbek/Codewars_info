@@ -1,7 +1,6 @@
 /// ==========================================================================================================
 // Arrayga doir masalar.. << Basic >>
 
-const nums = [1, 2, 3, 4, 5, 6, 7, 8, 9];
 const names = ["Toshmat", "Eshmat", "Abror", "Qulmat"];
 const furuit = ["olma", "bexi", "uzum", "nok", "olcha"];
 const country = ["Uzbekistan", "England", "USA", "Brazil"];
@@ -43,26 +42,30 @@ const country = ["Uzbekistan", "England", "USA", "Brazil"];
 // Berilgan array larni boshidan malumot qo'shib bering?  misol  "salom"
 // nums.unshift("hello");
 // console.log(nums);
-
 // Berilgan array larni boshidan malumot o'chirib bering?
-
 // Berilgan array larni ichida number malumot bo'lsa number? bo'lmasa number yo'q desin?
+// const nums = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+// for (let val of nums) {
+//   if (typeof val == "number") {
+//     console.log("number");
+//   } else {
+//     console.log("number yoq");
+//   }
+// }
 // Berilgan array larni concat metodini ishlatib bbir biriga qoshib natigani consolga chiqaring?
 // Berilgan array larni 1chi index dan boshlab oxirigacha kesib qaytaring?
 // Berilgan array larni 2chi index siga "salom" sozini qo'shib bering?
-
 // Berilgan array larni teskarisiga o'girib qaytaring?
 // console.log(nums.reverse());
-
 // Berilgan array larni while loop bilan aylanib chiqing?
 // Berilgan array larni ternary operatori bilan tekshirib malumot bo'lsa true aks holda false?
 // Berilgan nums arrayini ichidagi malumotlarni stringa ogirib qaytaring?
 
 // Berilgan array larni xar bir functionni parametrga berib consolga chiqaring?
-function get(a) {
-  console.log(a);
-}
-get(nums);
+// function get(a) {
+//   console.log(a);
+// }
+// get(nums);
 // Berilgan array larni functionni parametrga berib funksiyani buttonga biriktirib button bosilsa consolga chiqsin?
 //
 // ==========================================================================================================
