@@ -1,4 +1,4 @@
-/// ==========================================================================================================
+//=====================================================================================================
 //  Loopga masala.
 // let son = 20, 30, 15
 
@@ -14,20 +14,13 @@
 // Berilgan sonlar aylanganda ikki honali son bo'lsa ikki xonali son bir xonali son bo'lsa bir xonali son desin uch xonali son bo'lsa uch xonali son desin..
 // Berilgan masalalarni While and do While bilan ham qiling..?
 
-/// ==========================================================================================================
+// // ===================================================================================================
 //  Loopga masala. Advanced...?
 // let arry = [1, 2, 3, 4, 5, 6, 7];
 
 // Berilgan arry ni aylanib ichidagi juft sonlarni yig'ib bering? While da qiling?
 // Berilgan arry ni aylanib ichidagi toq sonlarni yig'ib bering? do whileda ham qiling?
-// Berilgan arry ni aylanib ichidagi hamma sonlarni 4ga kopaytirib bering? while and do while da ham qiling?
-// Berilgan arry ni aylanib
-// Berilgan arry ni aylanib
-// Berilgan arry ni aylanib
-// Berilgan arry ni
-// Berilgan arry ni
-// Berilgan arry ni
-// Berilgan arry ni
-// Berilgan arry ni
-// Berilgan arry ni
-// Berilgan arry ni
+// Berilgan arry ni aylanib ichidagi hamma sonlarni 4ga kopaytirib bering?
+// Shu berilganlarni while and do whileda ham qiling?
+
+// ===============================================================================================
