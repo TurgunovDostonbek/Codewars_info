@@ -150,10 +150,18 @@ let autos = [
   { id: 9, year: 2001, price: "400$", name: "Malibu" },
 ];
 
-// Berilgan array larni
-// Berilgan array larni
-// Berilgan array larni
-// Berilgan array larni
-// Berilgan array larni
-// Berilgan array larni
-// Berilgan array larni
+// Berilgan array larni name si bo'yicha sort, price bo'yicha filter qiling va consolega chiqaring?
+// Berilgan array larni name si bo'yicha sort, price bo'yicha filter qiling va consolega chiqaring?
+// Berilgan array larni name si bo'yicha sort, price bo'yicha filter qiling va consolega chiqaring?
+// Berilgan array larni name si bo'yicha sort, price bo'yicha filter qiling va consolega chiqaring?
+// Berilgan array larni name si bo'yicha sort, price bo'yicha filter qiling va consolega chiqaring?
+// Berilgan array larni name si bo'yicha sort, price bo'yicha filter qiling va consolega chiqaring?
+// Berilgan array larni name si bo'yicha sort, price bo'yicha filter qiling va consolega chiqaring?
+
+// Berilgan array larni year si bo'yicha sort, id si yig'indisini toping va console chiqaring?
+// Berilgan array larni year si bo'yicha sort, id si yig'indisini toping va console chiqaring?
+// Berilgan array larni year si bo'yicha sort, id si yig'indisini toping va console chiqaring?
+// Berilgan array larni year si bo'yicha sort, id si yig'indisini toping va console chiqaring?
+// Berilgan array larni year si bo'yicha sort, id si yig'indisini toping va console chiqaring?
+// Berilgan array larni year si bo'yicha sort, id si yig'indisini toping va console chiqaring?
+// Berilgan array larni year si bo'yicha sort, id si yig'indisini toping va console chiqaring?
