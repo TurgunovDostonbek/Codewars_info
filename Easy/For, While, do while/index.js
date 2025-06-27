@@ -1,6 +1,6 @@
 //=====================================================================================================
 //  Loopga masala.
-// let son = 20, 30, 15
+// let son = 20, 30, 15, 10,
 
 // Berilgan sonlarni aylanib chiqing for loop bilan va consolga chiqaring...
 // Berilgan sonlarni aylangan vaqtda juft yoki da toqlarini consolga chiqaring..
@@ -18,9 +18,9 @@
 //  Loopga masala. Advanced...?
 // let arry = [1, 2, 3, 4, 5, 6, 7];
 
-// Berilgan arry ni aylanib ichidagi juft sonlarni yig'ib bering? While da qiling?
-// Berilgan arry ni aylanib ichidagi toq sonlarni yig'ib bering? do whileda ham qiling?
-// Berilgan arry ni aylanib ichidagi hamma sonlarni 4ga kopaytirib bering?
+// Berilgan array ni aylanib ichidagi juft sonlarni yig'ib bering? While da qiling?
+// Berilgan array ni aylanib ichidagi toq sonlarni yig'ib bering? do whileda ham qiling?
+// Berilgan array ni aylanib ichidagi hamma sonlarni 4ga kopaytirib bering?
 // Shu berilganlarni while and do whileda ham qiling?
 
 // ===============================================================================================
