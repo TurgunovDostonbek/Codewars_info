@@ -101,3 +101,18 @@
 // Function Expresion ga 10ta misol yozing lekin parametriga str berilsin va consolga str chiqsin..
 // Arrow Functionga ga 10ta misol yozing lekin parametriga str berilsin va consolga str chiqsin..
 //
+// Function Declaration ga 10ta misol yozing lekin parametriga str berilsin va str ning uzunligini consolga chiqaring..
+// Function Expresion ga 10ta misol yozing lekin parametriga str berilsin va str ning uzunligini consolga chiqaring..
+// Arrow Functionga ga 10ta misol yozing lekin parametriga str berilsin va str ning uzunligini consolga chiqaring..
+
+// Function Declaration ga 10ta misol yozing lekin parametriga str berilsin va str ning ichidagi har bir harfni consolga chiqaring..
+// Function Expresion ga 10ta misol yozing lekin parametriga str berilsin va str ning ichidagi har bir harfni consolga chiqaring..
+// Arrow Functionga ga 10ta misol yozing lekin parametriga str berilsin va str ning ichidagi har bir harfni consolga chiqaring..
+
+// Function Declaration ga 10ta misol yozing lekin parametriga str berilsin va str ning ichidagi harflarni katta harfga aylantirib consolga chiqaring..
+// Function Expresion ga 10ta misol yozing lekin parametriga str berilsin va str ning ichidagi harflarni katta harfga aylantirib consolga chiqaring..
+// Arrow Functionga ga 10ta misol yozing lekin parametriga str berilsin va str ning ichidagi harflarni katta harfga aylantirib consolga chiqaring..
+
+// Function Declaration ga 10ta misol yozing lekin parametriga str berilsin va str ning ichidagi harflarni kichik harfga aylantirib consolga chiqaring..
+// Function Expresion ga 10ta misol yozing lekin parametriga str berilsin va str ning ichidagi harflarni kichik harfga aylantirib consolga chiqaring..
+// Arrow Functionga ga 10ta misol yozing lekin parametriga str berilsin va str ning ichidagi harflarni kichik harfga aylantirib consolga chiqaring..
