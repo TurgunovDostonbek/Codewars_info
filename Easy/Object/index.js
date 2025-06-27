@@ -21,4 +21,11 @@
 // Berilgan obj larni studentlarini sonini bir biriga qo'shib bering.?
 // Berilgan obj larni yearni bir biridan ayirib bering.?
 // Berilgan obj larni yangi nom bilan yozib studentlarini qo'shib yangi obj yasab berin.?
-//
+// Berilgan obj larni locationlarini bir biriga qo'shib bering.?
+// Berilgan obj larni ichidagi malumotlarni o'zgartiring.?
+// Berilgan obj larni ichidagi malumotlarni o'chirib tashlang.?
+// Berilgan obj larni ichidagi malumotlarni qo'shib bering.?
+// Berilgan obj larni ichidagi malumotlarni bir biriga tenglashtiring.?
+// Berilgan obj larni ichidagi malumotlarni bir biriga tenglashtirib yangi obj yasab bering.?
+// Berilgan obj larni ichidagi malumotlarni bir biriga tenglashtirib yangi obj yasab bering va uni console.log orqali chiqaring.?
+// Berilgan obj larni ichidagi malumotlarni bir biriga tenglashtirib yangi obj yasab bering va uni console.log orqali chiqaring va video tayorlang.?

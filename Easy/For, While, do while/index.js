@@ -22,5 +22,15 @@
 // Berilgan array ni aylanib ichidagi toq sonlarni yig'ib bering? do whileda ham qiling?
 // Berilgan array ni aylanib ichidagi hamma sonlarni 4ga kopaytirib bering?
 // Shu berilganlarni while and do whileda ham qiling?
-
+// Berilgan array ni aylanib ichidagi sonlarni 2 ga bo'lib bering? while da qiling?
+// Berilgan array ni aylanib ichidagi sonlarni 3 ga bo'lib bering? do whileda qiling?
+// Berilgan array ni aylanib ichidagi sonlarni 5 ga bo'lib bering? while da qiling?
 // ===============================================================================================
+//  Loopga masala. Advanced...?
+// let arry = [1, 2, 3, 4, 5, 6, 7];
+// let arry2 = [8, 9, 10, 11, 12, 13, 14];
+
+// Berilgan array ni aylanib ichidagi sonlarni 2 ga bo'lib, 3 ga kopaytirib bering? while da qiling?
+// Berilgan array ni aylanib ichidagi sonlarni 3 ga bo'lib, 2 ga kopaytirib bering? do whileda qiling?
+// Berilgan array ni aylanib ichidagi sonlarni 4 ga bo'lib, 5 ga kopaytirib bering? while da qiling?
+// Berilgan array ni aylanib ichidagi sonlarni 5 ga bo'lib, 4 ga kopaytirib bering? do whileda qiling?
